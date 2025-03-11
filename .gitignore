@@ -1,0 +1,9 @@
+# Виртуальні середовища та системні файли
+.idea/
+.vscode/
+node_modules/
+.DS_Store
+
+# Згенеровані файли CSS
+assets/css/*.min.css
+assets/css/*.map
